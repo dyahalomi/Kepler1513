@@ -1,0 +1,12 @@
+-0.38175E+01 0.0 0.0 0.0 0 = log10(m_b/m_star)
+ 0.268E-03 0.0 0.0 0.0 0 = m_c/m_star
+ 0.22530E+03 0.0 0.0 0.0 0 = lambda_c (days)
+ 0.84141E+03 0.0 0.0 0.0 0 = P_c (days)
+ 0.3100E+00 0.0 0.0 0.0 0 = e_b
+ 0.1244E+00 0.0 0.0 0.0 0 = e_c
+ 0.25837E+03 0.0 0.0 0.0 0 = varpi_b (deg), longitude!
+ 0.31309E+03 0.0 0.0 0.0 0 = varpi_c (deg), longitude!
+ 0.7195E+02 0.0 0.0 0.0 0 = b_c, see notebook calculation
+ 0.20755E+03 0.0 0.0 0.0 0 = Omega_c-Omega_b (deg), Omega_b = 270
+ 0.16088426E+03 0.0 0.0 0.0 0 = P_b
+ 0.505920E+00 0.0 0.0 0.0 0 = delta_t
